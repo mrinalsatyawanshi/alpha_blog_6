@@ -1,5 +1,5 @@
 require 'test_helper'
-
+#comment
 class CategoryTest < ActiveSupport::TestCase
 
     def setup
